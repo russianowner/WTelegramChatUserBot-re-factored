@@ -2,7 +2,7 @@
 
 ---
 
-- Simple Project - https://github.com/russianowner/WChatUserBot
+- Simple Project - https://github.com/russianowner/WChatUserBot-simple
 
 ---
 - Бот авторизуется под аккаунтом телеги и отвечает пользователям в заданном стиле, используя LLM-модель от Together .(Можно использовать не только Together, но и другие Апи)
