@@ -1,4 +1,4 @@
-﻿﻿# WTelegramChatUserBot-re-factored
+# WTelegramChatUserBot-re-factored
 
 ---
 
