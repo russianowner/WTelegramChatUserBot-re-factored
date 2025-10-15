@@ -1,6 +1,6 @@
 # WTelegramChatUserBot-re-factored
 ---
-- Simple Project - https://github.com/russianowner/WChatUserBot
+- Simple Project - https://github.com/russianowner/WChatUserBot-simple
 ---
 - Этот бот авторизуется под аккаунтом телеги и отвечает пользователям в заданном стиле с базовой архитектурой кода
 ---
